@@ -11,6 +11,6 @@ Adicionalmente se agrego prueba para guardar los valores en un csv donde se guar
 
 Para ejecutar el programa haga en el terminal debera hacer un make all para generar los archivos, ademas puede hacer un make clean para eliminar todos los residuos de la compilacion. 
 
-Para generar el csv de los resultados de las pruebas en el terminal ejecute python3 prueba.py
+Para generar el csv de los resultados de las pruebas en el terminal ejecute python3 prueba_tierra.py
 
 Hay un notebook donde podra verse los resultados de rendimiento y comparaciones mediante graficas.
